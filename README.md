@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Alexis Castro
+## Hi there 👋 I'm Alexis J. Castro
 <br>
 <h1>Education</h1>
 
-<ul><li>Bachelor of Science in Information Technology</li></ul>
+<ul><li>Currently taking Bachelor of Science in Information Technology at New Era University</li></ul>
 <br>
 <h1>Certifications</h1>
 
