@@ -7,7 +7,7 @@
 <h1>Certifications</h1>
 
 <ul>
-  <li><a href="">SQL and Relational Databases 101</a></li>
+  <li><a href="https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c">SQL and Relational Databases 101</a></li>
 </ul>
 <br>
 <h1>Skillsets</h1>
