@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Alexis Castro
 <br>
-# Education
+## Education
 <hr>
 <ul><li>Bachelor of Science in Information Technology</li></ul>
 <br>
-# Certifications
+## Certifications
 <hr>
 <ul>
   <li><a href="">SQL and Relational Databases 101</a></li>
 </ul>
 <br>
-# Skillsets
+## Skillsets
 <hr>
 <ul>
   <li>Java</li>
