@@ -12,6 +12,12 @@
 <ul>
   <li><a href="https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></li>
 </ul>
+<ul>
+  <li><a href="https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
+</ul>
+<ul>
+  <li><a href="https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
+</ul>
 <br>
 <h1>Skillsets</h1>
 
