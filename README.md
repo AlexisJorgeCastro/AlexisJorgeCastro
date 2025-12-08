@@ -10,7 +10,7 @@
   <li><a href="https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c">SQL and Relational Databases 101</a></li>
 </ul>
 <ul>
-  <li><a href="">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></li>
+  <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB1EEDE9889905946C12827E7BB71629247DB243C0D6B6DB74E5040192FA7CD5">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></li>
 </ul>
 <ul>
   <li><a href="">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
