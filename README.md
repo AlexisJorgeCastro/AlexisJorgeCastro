@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Alexis J. Castro
-<br>
 <h1>Education</h1>
 
 <ul><li>Currently taking Bachelor of Science in Information Technology at New Era University</li></ul>
