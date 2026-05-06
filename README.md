@@ -13,6 +13,7 @@ New Era University
 ---
 
 ## 📜 Certifications
+- 🧠 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/fe7efa718b564759ab2c9c50c7e66c85)
 - ☁️ [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E5FB0E4A79C23B94A6718E160B4B3A4E6E695541C7FB1363B0313DE12F5B8AF6)
 - ☁️ [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB1EEDE9889905946C12827E7BB71629247DB243C0D6B6DB74E5040192FA7CD5)
 - ☁️ [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AFDB229FE2C78B727ED9E80F02E9DEE02F9242164D8A3DF0D9A5A7B5F1FF59BA)
@@ -41,7 +42,6 @@ New Era University
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/alexis-castro-812a02387/)  
 - 📧 Email: alexis.castro@neu.edu.ph
 
 ---
