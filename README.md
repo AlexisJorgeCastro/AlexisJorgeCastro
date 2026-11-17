@@ -1,31 +1,56 @@
-# Alexis Castro
+<div align="center">
 
-**BS Information Technology Student** | New Era University (2024 – Present)  
-`ajcken319@gmail.com`
+# ✦ ALEXIS CASTRO ✦
+### *BS Information Technology*
 
----
+![New Era University](https://shields.io_–_Present-0B0E14?style=for-the-badge&logoColor=F8FAFC&labelColor=1E293B)
+[![Email](https://shields.io)](mailto:alexis.castro@neu.edu.ph)
 
-### About
-Information Technology undergraduate focused on software development, relational and NoSQL database systems, and cloud infrastructure. Currently building practical desktop and web applications with Python, Java, and JavaScript.
+`◈─────────────────────────────────────────◈`
 
----
+</div>
 
-### Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Frameworks** | Python, Java, JavaScript, React.js, HTML |
-| **Databases** | IBM Db2 Cloud, SQL / Relational Databases, NoSQL |
-| **Data & Developer Tools** | Pentaho, Jaspersoft Studio, Lucidchart, Eclipse, Git |
+### ✦ Hunter's Journal (About)
+> *"Higher beings, these words are for you alone."*  
+> Information Technology undergraduate at **New Era University** focused on software development, relational and NoSQL database systems, and cloud infrastructure. Building practical desktop and web applications with Python, Java, and JavaScript.
 
 ---
 
-### Certifications
+### ✦ Charms & Nail Arts (Tech Stack)
 
-| Certification | Issuer | Issued |
+<div align="center">
+
+**Languages & Frameworks**  
+![Python](https://shields.io)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![HTML5](https://shields.io)
+
+**Databases & Tools**  
+![IBM Db2](https://shields.io)
+![SQL](https://shields.io)
+![Pentaho](https://shields.io)
+![Jaspersoft](https://shields.io)
+![Lucidchart](https://shields.io)
+![Eclipse](https://shields.io)
+
+</div>
+
+---
+
+### ✦ Hallownest Seals (Certifications)
+
+| Seal / Certification | Order / Issuer | Forged |
 | :--- | :--- | :--- |
-| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/fe7efa718b564759ab2c9c50c7e66c85) | IBM Cognitive Class | May 2026 |
-| [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AFDB229FE2C78B727ED9E80F02E9DEE02F9242164D8A3DF0D9A5A7B5F1FF59BA) | Oracle | Dec 2025 |
-| [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E5FB0E4A79C23B94A6718E160B4B3A4E6E695541C7FB1363B0313DE12F5B8AF6) | Oracle | Dec 2025 |
-| [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB1EEDE9889905946C12827E7BB71629247DB243C0D6B6DB74E5040192FA7CD5) | Oracle | Dec 2025 |
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ef7c37b543684bc68f6e6ccf70d1834c) | IBM Skills Network | Nov 2025 |
+| ◈ [NoSQL and DBaaS 101](https://cognitiveclass.ai) | IBM Cognitive Class | May 2026 |
+| ◈ [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://oracle.com) | Oracle | Dec 2025 |
+| ◈ [Oracle Data Platform 2025 Certified Foundations Associate](https://oracle.com) | Oracle | Dec 2025 |
+| ◈ [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://oracle.com) | Oracle | Dec 2025 |
+| ◈ [SQL and Relational Databases 101](https://cognitiveclass.ai) | IBM Skills Network | Nov 2025 |
+
+<div align="center">
+
+`◈─────────────────────────────────────────◈`
+
+</div>
