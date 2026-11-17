@@ -1,11 +1,11 @@
 <div align="center">
 
 # ✦ ALEXIS CASTRO ✦
-### *BS Information Technology*
+### *Wanderer of Hallownest · BS Information Technology*
 
-alexis.castro@neu.edu.ph
+**New Era University** (`2024 – Present`) · [`alexis.castro@neu.edu.ph`](mailto:alexis.castro@neu.edu.ph)
 
-`◈─────────────────────────────────────────◈`
+`◈───────────────────────────────────────────────────────◈`
 
 </div>
 
@@ -17,24 +17,11 @@ alexis.castro@neu.edu.ph
 
 ### ✦ Charms & Nail Arts (Tech Stack)
 
-<div align="center">
-
-**Languages & Frameworks**  
-![Python](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![HTML5](https://shields.io)
-
-**Databases & Tools**  
-![IBM Db2](https://shields.io)
-![SQL](https://shields.io)
-![Pentaho](https://shields.io)
-![Jaspersoft](https://shields.io)
-![Lucidchart](https://shields.io)
-![Eclipse](https://shields.io)
-
-</div>
+| Category | Equipped |
+| :--- | :--- |
+| **Languages & Frameworks** | `Python` · `Java` · `JavaScript` · `React.js` · `HTML` |
+| **Databases** | `IBM Db2 Cloud` · `SQL / Relational Databases` · `NoSQL` |
+| **Tools & Platforms** | `Pentaho` · `Jaspersoft Studio` · `Lucidchart` · `Eclipse` · `Git` |
 
 ---
 
@@ -50,6 +37,6 @@ alexis.castro@neu.edu.ph
 
 <div align="center">
 
-`◈─────────────────────────────────────────◈`
+`◈───────────────────────────────────────────────────────◈`
 
 </div>
