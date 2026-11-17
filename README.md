@@ -1,21 +1,21 @@
 <div align="center">
 
 # ✦ ALEXIS CASTRO ✦
-### *Wanderer of Hallownest · BS Information Technology*
+### *BS Information Technology*
 
-**New Era University** (`2024 – Present`) · [`alexis.castro@neu.edu.ph`](mailto:alexis.castro@neu.edu.ph)
+**New Era University** (`2024 – Present`) · [`alexis.castro@neu.edu.ph`]
 
 `◈───────────────────────────────────────────────────────◈`
 
 </div>
 
-### ✦ Hunter's Journal (About)
+### ✦ About
 > *"Higher beings, these words are for you alone."*  
 > Information Technology undergraduate at **New Era University** focused on software development, relational and NoSQL database systems, and cloud infrastructure. Building practical desktop and web applications with Python, Java, and JavaScript.
 
 ---
 
-### ✦ Charms & Nail Arts (Tech Stack)
+### ✦ Tech Stack
 
 | Category | Equipped |
 | :--- | :--- |
@@ -25,7 +25,7 @@
 
 ---
 
-### ✦ Hallownest Seals (Certifications)
+### ✦ Certifications
 
 | Seal / Certification | Order / Issuer | Forged |
 | :--- | :--- | :--- |
