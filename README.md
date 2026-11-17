@@ -9,8 +9,7 @@
 
 </div>
 
-### ✦ About
-> *"Shall we indeed accept good from God, and shall we not accept trouble?"*  
+### ✦ *"Shall we indeed accept good from God, and shall we not accept trouble?"* 
 > Information Technology undergraduate at **New Era University** focused on software development, relational and NoSQL database systems, and cloud infrastructure. Building practical desktop and web applications with Python, Java, and JavaScript.
 
 ---
