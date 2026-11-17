@@ -3,7 +3,7 @@
 # ✦ ALEXIS CASTRO ✦
 ### *BS Information Technology*
 
-[alexis.castro@neu.edu.ph]
+alexis.castro@neu.edu.ph
 
 `◈─────────────────────────────────────────◈`
 
