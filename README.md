@@ -3,8 +3,7 @@
 # ✦ ALEXIS CASTRO ✦
 ### *BS Information Technology*
 
-![New Era University](https://shields.io_–_Present-0B0E14?style=for-the-badge&logoColor=F8FAFC&labelColor=1E293B)
-[![Email](https://shields.io)](mailto:alexis.castro@neu.edu.ph)
+[alexis.castro@neu.edu.ph]
 
 `◈─────────────────────────────────────────◈`
 
