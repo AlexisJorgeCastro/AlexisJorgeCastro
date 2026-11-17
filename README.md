@@ -3,7 +3,7 @@
 # ✦ ALEXIS CASTRO ✦
 ### *BS Information Technology*
 
-**New Era University** (`2024 – Present`) · [`alexis.castro@neu.edu.ph`]
+**New Era University** (`2024 – Present`) · `alexis.castro@neu.edu.ph`
 
 `◈───────────────────────────────────────────────────────◈`
 
