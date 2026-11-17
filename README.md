@@ -10,7 +10,7 @@
 </div>
 
 ### ✦ About
-> *"Higher beings, these words are for you alone."*  
+> *"Shall we indeed accept good from God, and shall we not accept trouble?"*  
 > Information Technology undergraduate at **New Era University** focused on software development, relational and NoSQL database systems, and cloud infrastructure. Building practical desktop and web applications with Python, Java, and JavaScript.
 
 ---
